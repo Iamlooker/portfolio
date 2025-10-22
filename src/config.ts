@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Mohit Sharma",
   title: "Developer & Designer",
   description: "Portfolio website of LooKeR",
-  accentColor: "#73e600",
+  accentColor: "#ed641f",
   social: {
     email: "iamlooker@proton.me",
     linkedin: "https://linkedin.com/in/iam-looker",
