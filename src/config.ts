@@ -28,7 +28,7 @@ export const siteConfig = {
     {
       company: "Joyfill.io",
       title: "Senior Kotlin Architect",
-      dateRange: "July 2025 - Present",
+      dateRange: "Jul 2025 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
@@ -37,8 +37,8 @@ export const siteConfig = {
     },
     {
       company: "BillioHearts-Picsee",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      title: "Product Engineer",
+      dateRange: "Apr 2025 - Jul 2025",
       bullets: [
         "Built and launched MVP product from scratch using React and Node.js",
         "Implemented CI/CD pipeline reducing deployment time by 60%",
