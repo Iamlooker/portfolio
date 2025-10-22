@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Mohit Sharma",
-  title: "Senior Software Engineer & Designer",
+  title: "Developer & Designer",
   description: "Portfolio website of LooKeR",
   accentColor: "#73e600",
   social: {
@@ -13,7 +13,7 @@ export const siteConfig = {
   projects: [
     {
       name: "Droid-ify",
-      description: "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+      description: "Clutterfree F-Droid client",
       link: "https://github.com/Droid-ify/client",
       skills: ["Kotlin", "Work Manager", "Ktor", "Serialization"],
     },
@@ -21,7 +21,7 @@ export const siteConfig = {
       name: "Kenko",
       description: "Kenko is a workout journal which will provide you with appropriate progressive-overload and well thought-out plans",
       link: "https://github.com/Iamlooker/Kenko",
-      skills: ["Kotlin", "Jetpack Compose", "Room"],
+      skills: ["Kotlin", "Jetpack Compose", "Room", "Serialization"],
     },
   ],
   experience: [
@@ -30,9 +30,9 @@ export const siteConfig = {
       title: "Senior Kotlin Architect",
       dateRange: "Jul 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Implemented a formula system",
+        "Maintained a sizeable Kotlin Multiplatform codebase",
+        "Architected and wrote highly performant Jetpack Compose code",
       ],
     },
     {
@@ -40,9 +40,9 @@ export const siteConfig = {
       title: "Product Engineer",
       dateRange: "Apr 2025 - Jul 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Assisted in releasing android app",
+        "Designed, prototyped and developed various parts of app with team",
+        "Architected and wrote highly performant Jetpack Compose code",
       ],
     },
   ],
