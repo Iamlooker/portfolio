@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/iam-looker",
     github: "https://github.com/iamlooker",
   },
-  aboutMe: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+  aboutMe: "Hello! I'm Mohit, aka LooKeR, an Android Developer who believes the best code is supposed to be the most performant code. My background is in graphic design + android, I started my journey to create perfect looking performant applications which improves user's experience in using their device.",
   skills: ["Kotlin", "Jetpack Compose", "Rust", "Zig"],
   projects: [
     {
