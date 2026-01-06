@@ -7,6 +7,7 @@ export const siteConfig = {
     email: "iamlooker@proton.me",
     linkedin: "https://linkedin.com/in/iam-looker",
     github: "https://github.com/iamlooker",
+    mastodon: "https://mastodon.social/@Iamlooker"
   },
   aboutMe: "Hello! I'm Mohit, aka LooKeR, an Android Developer who believes the best code is supposed to be the most performant code. My background is in graphic design + android, I started my journey to create perfect looking performant applications which improves user's experience in using their device.",
   skills: ["Kotlin", "Jetpack Compose", "Rust", "Zig"],
